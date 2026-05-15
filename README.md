@@ -18,4 +18,4 @@ Decision Tree Classifier
 - The model achieved an accuracy of 1.0 (100%).
 - ## Author
 Iman Fatima
-AI/ML Intern at DevelopersHub Corporation
+AI/ML Intern at Developers Hub Corporation
